@@ -64,7 +64,7 @@ export default function Home() {
         <section className="max-w-4xl text-center mb-20">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">Why Delise Athletics?</h2>
           <p className="text-lg text-gray-300">
-            Because you're not just training for looks. You're building strength, discipline, and self-respect — inside and out.
+            Because you&apos;re not just training for looks. You&apos;re building strength, discipline, and self-respect — inside and out.
           </p>
         </section>
 
